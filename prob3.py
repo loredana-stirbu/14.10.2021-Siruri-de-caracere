@@ -1,3 +1,4 @@
+#conform modelului din manual
 print("Cenume si prenume ai? ")
 nume=input()
 print("Ce iti doresti sa devii in viior?")
